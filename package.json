@@ -1,0 +1,17 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Practice programming to make the world a better place to live in (i hope)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "ECMAScript",
+    "Web",
+    "Development"
+  ],
+  "author": "Juan <Josecopro2006@gmail.com>",
+  "license": "MIT"
+}
