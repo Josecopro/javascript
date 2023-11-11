@@ -6,3 +6,8 @@ function NewUser(nombre, edad, pais){
 }
 NewUser();
 NewUser("Juan","17","CO")
+function newadmin(name='Juan', age='17',country='CO'){
+    console.log(name,age,country);
+}
+newadmin();
+newadmin('Ana',16,'CO')
